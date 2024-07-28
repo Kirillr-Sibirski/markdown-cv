@@ -4,40 +4,48 @@ title: Kirill Rybkov's CV
 ---
 
 # Kirill Rybkov
-Blockchain Developer / Mechatronics Enthusiast
+<img src="./image.jpg" alt="image" width="200" style="float: right;"/>
+Blockchain Developer & Mechatronics Enthusiast
 
 <div id="webaddress">
 <a href="kirill.rybkov@outlook.com">kirill.rybkov@outlook.com</a>
-| <a href="https://www.linkedin.com">LinkedIn</a>
-| <a href="https://www.twitter.com">Twitter</a>
-| <a href="https://www.github.com">GitHub</a>
-| <a href="https://www.stackshare.io">Stackshare</a>
-| <a href="https://bento.me/rybkov">bento.me/rybkov</a>
+| <a href="https://www.linkedin.com/in/kirillrybkov/">LinkedIn</a>
+| <a href="https://twitter.com/kirillrybkov">Twitter</a>
+| <a href="https://github.com/Kirillr-Sibirski">GitHub</a>
 </div>
 
 ## Profile
 
-Innovative and skilled Blockchain Developer with over two years of hands-on experience in developing smart contracts and DeFi projects. Proven track record of success in game development and a strong passion for mechatronics, electronics, and mechanics. Adept at problem-solving and critical thinking, with a knack for business and content creation.
+- Innovative and skilled <u>Software Developer</u> 
+- with over two years of hands-on experience in 
+- developing smart contracts and DeFi projects. 
+- Proven track record of success in game 
+- development and a strong passion for 
+- mechatronics, electronics, and mechanics. 
+- Adept at problem-solving and critical thinking, 
+- with a knack for business and content creation.
+  
+- ---
 
 ## Skills
-
-### Programming Languages
-- JavaScript (React.js, Node.js), TypeScript, Python, C/C++ (Arduino)
 
 ### Blockchain Development
 - Solidity, Ethers.js, Remix, Foundry, web3.js, viem, wagmi
 
 ### Web Development
-- Tailwind CSS, Next.js
+- Github, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+
+### Game Development
+- C#, JavaScript
+
+### Data Science
+- Python, Matplotlib
 
 ### Electronics
-- Arduino, Sensors, Transistors, Motors, Raspberry Pi
+- C/C++, Arduino, Sensors, Transistors, Motors, Raspberry Pi
 
 ### Design and Fabrication
 - CAD (Onshape), 3D Printing (Creality Ender)
-
-### Tools
-- Git & GitHub
 
 ### Soft Skills
 - Critical Thinking, Problem Solving, Public Speaking, Debating, Leadership, Teamwork, Organization
@@ -46,27 +54,28 @@ Innovative and skilled Blockchain Developer with over two years of hands-on expe
 
 ### Blockchain Developer
 __Self-Employed, ETHGlobal__  
-2022 - Present
-
-- **ETHGlobal Brussels:** Developed SCRBL in a team of 3, working as a backend developer utilizing Foundry to write and test smart contracts in Solidity. <a href="https://ethglobal.com/showcase/scrbl-6d9uh">Project Link</a>
-- **Smart Con Hacker House 2023:** Created DecentPort in a team of 2, serving as a backend developer and using Remix IDE to develop smart contracts. <a href="https://taikai.network/chainlink/hackathons/hackerhouse-sc23/projects/cln77ho7m004bvx0108a91vv1/idea">Project Link</a>
-- **ETHLisbon 2022:** Built Lekker Finance in a team of 4, working as a front-end developer and designer. Created the logo and contributed to the landing page and dashboard design using JavaScript, React.js, and Tailwind CSS. <a href="https://taikai.network/ethlisbon/hackathons/ethlisbon-2022/projects/cl9tpj350446301zcoiepyje5/idea">Project Link</a> | <a href="https://lekker.finance/">Website</a> 
+`2022 - Present`
+- /-----------/
+- <u>ETHGlobal Brussels</u>: Developed SCRBL in a team of 3, working as a backend developer utilizing Foundry to write and test smart contracts in Solidity. [Project Link](https://ethglobal.com/showcase/scrbl-6d9uh)
+- <u>Smart Con Hacker House 2023</u>: Created DecentPort in a team of 2, serving as a backend developer and using Remix IDE to develop smart contracts. [Project Link](https://taikai.network/chainlink/hackathons/hackerhouse-sc23/projects/cln77ho7m004bvx0108a91vv1/idea)
+- <u>ETHLisbon 2022</u>: Built Lekker Finance in a team of 4, working as a front-end developer and designer. Created the logo and contributed to the landing page and dashboard design using JavaScript, React.js, and Tailwind CSS. [Project Link](https://taikai.network/ethlisbon/hackathons/ethlisbon-2022/projects/cl9tpj350446301zcoiepyje5/idea) & [Website](https://lekker.finance/)
 - Participated in various other online hackathons hosted by Gitcoin and ETHGlobal, developing projects such as:
-  - **The Loan Stream:** <a href="https://ethglobal.com/showcase/the-loan-stream-vp2cc">Project Link</a>
-  - **Lukso Lending Protocol:** <a href="https://app.buidlbox.io/projects/llp?path=projects%2Fllp">Project Link</a>
-  - **newEnvAI:** <a href="https://github.com/Kirillr-Sibirski/newEnvAI">Project Link</a>
+  - <u>The Loan Stream</u>: [Project Link](https://ethglobal.com/showcase/the-loan-stream-vp2cc)
+  - <u>Lukso Lending Protocol</u>: [Project Link](https://app.buidlbox.io/projects/llp?path=projects%2Fllp)
+  - <u>newEnvAI</u>: [Project Link](https://github.com/Kirillr-Sibirski/newEnvAI)
+
 
 ### Founder
 __CalmScent, BorderlessWave__  
-Feb 2023 - Aug 2023
-
+`Feb 2023 - Aug 2023`
+- /-----------/
 - Established CalmScent, a dropshipping store specializing in oil diffusers sourced from China.
 - Founded BorderlessWave, a Twitter management agency targeting tech startups in Seed/Series A funding rounds.
 
 ### Game Developer
 __Freelance__  
-2021 - 2022
-
+`2021 - 2022`
+- /-----------/
 - Developed backend systems using C# and frontend systems using JavaScript.
 - Created various game systems for online servers based on RAGE:MP API, a multi-player version of GTA5.
 
@@ -74,9 +83,10 @@ __Freelance__
 
 ### Active Suspension System for Preventing Rollovers in Off-Road Conditions
 __Extended Project Qualification Artefact__  
-Oct 2023 - May 2024
-
-- Developed an active suspension system implemented into a 1/10th scale off-road RC model.
+`Oct 2023 - May 2024`
+- /-----------/
+- Developed an active suspension system implemented into a 
+- 1/10th scale off-road RC model.
 - Utilized 4 servo motors, an Arduino module, and an MPU6050 gyroscope.
 - Wrote a PID algorithm to control the suspension system, enhancing programming skills in hardware devices.
 - Authored a 6000-word research paper detailing the project. <a href="https://drive.google.com/file/d/1RVng1U3ozTkHGZV1VvMJidTT9ehvyb1P/view">EPQ Artefact Link</a>
@@ -85,45 +95,46 @@ Oct 2023 - May 2024
 
 ### Delegate, UNWOMEN Council
 __Barcelona International Model United Nations Conference__  
-April 2024
-
+`April 2024`
+- /-----------/
 - Represented the delegation of Tanzania, debating at ESADE campus.
 - Developed a strong understanding of politics and international relations.
 - Enhanced debating and critical thinking skills. <a href="https://www.bimun.org/">Conference Link</a>
 
 ### Speaker, Public Speaking Event
 __4Voices Public Speaking__  
-April 2024
-
+`April 2024`
+- /-----------/
 - Delivered a talk on the future implications and risks of brainchips.
 - Gained confidence in public speaking and clarity in presenting ideas.
 - Discussed visionary ideas that address future challenges. <a href="https://4-voices.com/">Event Link</a>
 
 ### Participant, Barcelona Startup Conference
-April 2023
-
+`April 2023`
+- /-----------/
 - Attended the conference to gain insights into startup funding in the EU.
 
 ### Business Bootcamp, ESEI Barcelona Business School
-June 2024
-
+`June 2024`
+- /-----------/
 - Completed a business bootcamp to enhance entrepreneurial skills.
 
 ## Education
 
 ### High School
 __The British School of Barcelona__  
-2021 - 2025
-
-- Engineering Society: Discussed current problems in engineering.
-- Public Speaking Society: Learned the importance of tone, stance, and eye contact in public speaking.
-- Duke of Edinburgh Bronze and Silver Awards: Completed 2 and 3-day hikes respectively in the Catalonia region, developing resilience and the ability to overcome obstacles.
-- School Newspaper: Contributed as one of the authors.
-- Green Team: Assisted in constructing facilities for gardening and farming at the school.
+`2021 - 2025`
+- /-----------/
+- <u>Engineering Society:</u> Discussed current problems in engineering.
+- <u>Public Speaking Society:</u> Learned the importance of tone, stance, and eye contact in public speaking.
+- <u>Duke of Edinburgh Bronze and Silver Awards:</u> Completed 2 and 3-day hikes respectively in the Catalonia region, developing resilience and the ability to overcome obstacles.
+- <u>School Newspaper:</u> Contributed as one of the authors.
+- <u>Green Team:</u> Assisted in constructing facilities for gardening and farming at the school.
 
 ### Secondary School
 __El Limonar International School__  
-2018 - 2021
+`2018 - 2021`
+- /-----------/
 
 ## Personal Projects and Hobbies
 
