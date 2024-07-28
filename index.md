@@ -1,91 +1,142 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kirill Rybkov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Kirill Rybkov
+Blockchain Developer / Mechatronics Enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kirill.rybkov@outlook.com">kirill.rybkov@outlook.com</a>
+| <a href="https://www.linkedin.com">LinkedIn</a>
+| <a href="https://www.twitter.com">Twitter</a>
+| <a href="https://www.github.com">GitHub</a>
+| <a href="https://www.stackshare.io">Stackshare</a>
+| <a href="https://bento.me/rybkov">bento.me/rybkov</a>
 </div>
 
+## Profile
 
-## Currently
+Innovative and skilled Blockchain Developer with over two years of hands-on experience in developing smart contracts and DeFi projects. Proven track record of success in game development and a strong passion for mechatronics, electronics, and mechanics. Adept at problem-solving and critical thinking, with a knack for business and content creation.
 
-Standing on the shoulders of giants
+## Skills
 
-### Specialized in
+### Programming Languages
+- JavaScript (React.js, Node.js), TypeScript, Python, C/C++ (Arduino)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Blockchain Development
+- Solidity, Ethers.js, Remix, Foundry, web3.js, viem, wagmi
 
+### Web Development
+- Tailwind CSS, Next.js
 
-### Research interests
+### Electronics
+- Arduino, Sensors, Transistors, Motors, Raspberry Pi
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Design and Fabrication
+- CAD (Onshape), 3D Printing (Creality Ender)
 
+### Tools
+- Git & GitHub
+
+### Soft Skills
+- Critical Thinking, Problem Solving, Public Speaking, Debating, Leadership, Teamwork, Organization
+
+## Professional Experience
+
+### Blockchain Developer
+__Self-Employed, ETHGlobal__  
+2022 - Present
+
+- **ETHGlobal Brussels:** Developed SCRBL in a team of 3, working as a backend developer utilizing Foundry to write and test smart contracts in Solidity. <a href="https://ethglobal.com/showcase/scrbl-6d9uh">Project Link</a>
+- **Smart Con Hacker House 2023:** Created DecentPort in a team of 2, serving as a backend developer and using Remix IDE to develop smart contracts. <a href="https://taikai.network/chainlink/hackathons/hackerhouse-sc23/projects/cln77ho7m004bvx0108a91vv1/idea">Project Link</a>
+- **ETHLisbon 2022:** Built Lekker Finance in a team of 4, working as a front-end developer and designer. Created the logo and contributed to the landing page and dashboard design using JavaScript, React.js, and Tailwind CSS. <a href="https://taikai.network/ethlisbon/hackathons/ethlisbon-2022/projects/cl9tpj350446301zcoiepyje5/idea">Project Link</a> | <a href="https://lekker.finance/">Website</a> 
+- Participated in various other online hackathons hosted by Gitcoin and ETHGlobal, developing projects such as:
+  - **The Loan Stream:** <a href="https://ethglobal.com/showcase/the-loan-stream-vp2cc">Project Link</a>
+  - **Lukso Lending Protocol:** <a href="https://app.buidlbox.io/projects/llp?path=projects%2Fllp">Project Link</a>
+  - **newEnvAI:** <a href="https://github.com/Kirillr-Sibirski/newEnvAI">Project Link</a>
+
+### Founder
+__CalmScent, BorderlessWave__  
+Feb 2023 - Aug 2023
+
+- Established CalmScent, a dropshipping store specializing in oil diffusers sourced from China.
+- Founded BorderlessWave, a Twitter management agency targeting tech startups in Seed/Series A funding rounds.
+
+### Game Developer
+__Freelance__  
+2021 - 2022
+
+- Developed backend systems using C# and frontend systems using JavaScript.
+- Created various game systems for online servers based on RAGE:MP API, a multi-player version of GTA5.
+
+## Engineering Projects
+
+### Active Suspension System for Preventing Rollovers in Off-Road Conditions
+__Extended Project Qualification Artefact__  
+Oct 2023 - May 2024
+
+- Developed an active suspension system implemented into a 1/10th scale off-road RC model.
+- Utilized 4 servo motors, an Arduino module, and an MPU6050 gyroscope.
+- Wrote a PID algorithm to control the suspension system, enhancing programming skills in hardware devices.
+- Authored a 6000-word research paper detailing the project. <a href="https://drive.google.com/file/d/1RVng1U3ozTkHGZV1VvMJidTT9ehvyb1P/view">EPQ Artefact Link</a>
+
+## Additional Experience
+
+### Delegate, UNWOMEN Council
+__Barcelona International Model United Nations Conference__  
+April 2024
+
+- Represented the delegation of Tanzania, debating at ESADE campus.
+- Developed a strong understanding of politics and international relations.
+- Enhanced debating and critical thinking skills. <a href="https://www.bimun.org/">Conference Link</a>
+
+### Speaker, Public Speaking Event
+__4Voices Public Speaking__  
+April 2024
+
+- Delivered a talk on the future implications and risks of brainchips.
+- Gained confidence in public speaking and clarity in presenting ideas.
+- Discussed visionary ideas that address future challenges. <a href="https://4-voices.com/">Event Link</a>
+
+### Participant, Barcelona Startup Conference
+April 2023
+
+- Attended the conference to gain insights into startup funding in the EU.
+
+### Business Bootcamp, ESEI Barcelona Business School
+June 2024
+
+- Completed a business bootcamp to enhance entrepreneurial skills.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### High School
+__The British School of Barcelona__  
+2021 - 2025
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Engineering Society: Discussed current problems in engineering.
+- Public Speaking Society: Learned the importance of tone, stance, and eye contact in public speaking.
+- Duke of Edinburgh Bronze and Silver Awards: Completed 2 and 3-day hikes respectively in the Catalonia region, developing resilience and the ability to overcome obstacles.
+- School Newspaper: Contributed as one of the authors.
+- Green Team: Assisted in constructing facilities for gardening and farming at the school.
 
-- Sizar
+### Secondary School
+__El Limonar International School__  
+2018 - 2021
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Personal Projects and Hobbies
 
-- Fellow
+### Data Science Program for Analyzing Global Currencies
 
+- Developed a Python program to analyze global currencies and attempt to create a digital currency representing the 'sum' of all world currencies.
+- Utilized an algorithm to calculate the geometric mean of exchange rates to determine the price of the new digital currency.
+- Conducted a detailed analysis, concluding that major currencies like USD, EUR, and GBP outperform others over time.
 
+### Hobbies
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Rock climbing (bouldering) at around 6b+ level by Fontainebleau Grading System.
+- Tinkering with metal and wood.
+- Reading books, with favorites including "The Financier" by Theodore Dreiser, "The Space Barons" by Christian Davenport, and "Quantum Warrior: The Future of the Human Mind" by John Kehoe.
+- Traveling: Visited Iceland, Morocco, Siberia, and most of Europe.
+- Photography: <a href="https://www.behance.net/gallery/204270887/Portfolio/modules/1159344259">Portfolio</a>
